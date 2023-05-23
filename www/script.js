@@ -1,5 +1,3 @@
-
-
 document.getElementById('strengthtxt').addEventListener("click", showStr)
 document.getElementById('endurancetxt').addEventListener("click", showEnd)
 document.getElementById('flexibilitytxt').addEventListener("click", showFlx)
